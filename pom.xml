@@ -1,0 +1,9 @@
+# signoauth1
+
+<dependencies>
+  <dependency>
+    <groupId>com.github.seratch</groupId>
+    <artifactId>signedrequest4j</artifactId>
+    <version>2.14</version>
+  </dependency>
+</dependencies>
